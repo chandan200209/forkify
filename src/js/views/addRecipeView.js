@@ -1,5 +1,6 @@
 import View from "./View.js";
-import icons from "url:../../img/icons.svg";
+// import icons from "url:../../img/icons.svg";
+import icons from '/img/icons.svg';
 class AddRecipeView extends View {
     _message = 'Recipe has been successfully uploaded';
     _parentElement = document.querySelector('.upload');

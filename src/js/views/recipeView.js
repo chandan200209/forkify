@@ -1,6 +1,7 @@
 import View from "./View.js";
 // import icons from "../../img/icons.svg"; // parcel 01
-import icons from "url:../../img/icons.svg"; // parcel 02
+// import icons from "url:../../img/icons.svg"; // parcel 02
+import icons from '/img/icons.svg';
 import { Fraction } from 'fraction.js';
 // console.log(Fraction);
 
