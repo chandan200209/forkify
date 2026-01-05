@@ -63,5 +63,3 @@ Bash
 Bash
 
 `npm run build`
-## 📝 License
-This project is for educational purposes as part of Jonas Schmedtmann's JavaScript Course.
