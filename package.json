@@ -2,7 +2,7 @@
   "name": "forkify_application",
   "version": "1.0.0",
   "description": "Recipe searching application",
-  "default":"index.html",
+  "source": "index.html",
   "license": "ISC",
   "author": "Chandan Ramteke",
   "type": "module",
