@@ -2,7 +2,7 @@
 A modern recipe searching application with custom recipe uploads, serving adjustments, and bookmarking capabilities. Built as part of the Complete JavaScript Course.
 
 ## 🚀 Live Demo
-View Live Project - forkify-topaz.vercel.app
+**[forkify-topaz.vercel.app](https://forkify-topaz.vercel.app)**
 
 ## ✨ Features
 ### 🔍 Recipe Search
