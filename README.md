@@ -1,0 +1,70 @@
+Forkify Application 🍳
+A modern recipe searching application with custom recipe uploads, serving adjustments, and bookmarking capabilities. Built as part of the Complete JavaScript Course.
+
+🚀 Live Demo
+View Live Project - forkify-topaz.vercel.app
+
+✨ Features
+🔍 Recipe Search
+Search from over 1,000,000 recipes.
+
+Seamlessly fetches data from the Forkify API.
+
+🍱 Serving Adjustments
+Dynamically update ingredient quantities by changing the number of servings.
+
+All quantities update instantly in the UI without a page reload.
+
+🔖 Bookmarking
+Save your favorite recipes for later.
+
+Local Storage Integration: Your bookmarks are persisted, meaning they will still be there even if you refresh the page or close the browser.
+
+📤 Add Custom Recipes
+Upload your own recipes directly to the API.
+
+Custom recipes are automatically bookmarked and marked with a unique user icon.
+
+🛠️ Built With
+JavaScript (ES6+) - Functional logic and MVC architecture.
+
+HTML & SCSS - Modern, responsive user interface.
+
+Parcel 2 - Build tool and module bundler.
+
+Vercel - Production deployment and hosting.
+
+Forkify API - Backend data source.
+
+📂 Project Structure
+This project follows the Model-View-Controller (MVC) architectural pattern to ensure clean, maintainable code:
+
+Model: Handles all data logic, API calls, and local storage management.
+
+Views: Responsible for rendering the UI and listening for user events.
+
+Controller: The "brain" that connects the Model and the Views.
+
+⚙️ How to Run Locally
+Clone the repository
+
+Bash
+
+git clone https://github.com/chandan200209/forkify.git
+Install dependencies
+
+Bash
+
+npm install
+Start the development server
+
+Bash
+
+npm start
+Build for production
+
+Bash
+
+npm run build
+📝 License
+This project is for educational purposes as part of Jonas Schmedtmann's JavaScript Course.
